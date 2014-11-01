@@ -1,0 +1,31 @@
+<h1>Listing event_organisers</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Phonenumber</th>
+      <th>Password</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @event_organisers.each do |event_organiser| %>
+      <tr>
+        <td><%= event_organiser.firstName %></td>
+        <td><%= event_organiser.lastName %></td>
+        <td><%= event_organiser.phoneNumber %></td>
+        <td><%= event_organiser.password %></td>
+        <td><%= link_to 'Show', event_organiser %></td>
+        <td><%= link_to 'Edit', edit_event_organiser_path(event_organiser) %></td>
+        <td><%= link_to 'Destroy', event_organiser, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Event organiser', new_event_organiser_path %>

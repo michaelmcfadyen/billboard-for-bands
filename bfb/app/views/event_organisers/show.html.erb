@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Firstname:</strong>
+  <%= @event_organiser.firstName %>
+</p>
+
+<p>
+  <strong>Lastname:</strong>
+  <%= @event_organiser.lastName %>
+</p>
+
+<p>
+  <strong>Phonenumber:</strong>
+  <%= @event_organiser.phoneNumber %>
+</p>
+
+<p>
+  <strong>Password:</strong>
+  <%= @event_organiser.password %>
+</p>
+
+<%= link_to 'Edit', edit_event_organiser_path(@event_organiser) %> |
+<%= link_to 'Back', event_organisers_path %>
