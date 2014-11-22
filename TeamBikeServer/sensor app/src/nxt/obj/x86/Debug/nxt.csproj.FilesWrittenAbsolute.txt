@@ -1,0 +1,7 @@
+/Users/ble04/Downloads/Projects/nxt/nxt/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ble04/Downloads/Projects/nxt/nxt/bin/Debug/nxt.exe.mdb
+/Users/ble04/Downloads/Projects/nxt/nxt/bin/Debug/nxt.exe
+/Users/ble04/Downloads/Projects/nxt/nxt/obj/x86/Debug/nxt.exe
+/Users/ble04/Downloads/Projects/nxt/nxt/obj/x86/Debug/nxt.exe.mdb
+/Users/ble04/Downloads/Projects/nxt/nxt/bin/Debug/NKH.MindSqualls.dll
+/Users/ble04/Downloads/Projects/nxt/nxt/bin/Debug/WinUsbWrapper.dll

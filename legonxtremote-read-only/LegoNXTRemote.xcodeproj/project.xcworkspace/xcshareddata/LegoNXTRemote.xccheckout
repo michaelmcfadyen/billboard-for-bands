@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B4731D7-C309-4395-A41F-7FD2AF013CAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LegoNXTRemote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>07E18888-FE07-43A7-8561-0C6F6DFFBA30</key>
+		<string>ssh://git.bskyb.com/michael.mcfadyen/team-bike-server.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>legonxtremote-read-only/LegoNXTRemote.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>07E18888-FE07-43A7-8561-0C6F6DFFBA30</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.bskyb.com/michael.mcfadyen/team-bike-server.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>07E18888-FE07-43A7-8561-0C6F6DFFBA30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>07E18888-FE07-43A7-8561-0C6F6DFFBA30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>teambikeserver</string>
+		</dict>
+	</array>
+</dict>
+</plist>

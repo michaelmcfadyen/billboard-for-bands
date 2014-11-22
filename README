@@ -1,0 +1,24 @@
+ Team Bike Server
+
+- Local server and MacApp that allows the user to poll from the NXT sensors. This is exported as a JSON and is accessible at localhost/TeamBikeServer.
+
+Setup:
+
+- Install XAMPP
+
+- Copy the folder "TeamBikeServer" to "/Applications/XAMPP/xamppfiles/htdocs/"
+
+- Launch XAMPP and start Apache web server
+
+- Launch LegoNXTRemote application
+
+- Select connect button on LegoNXTRemote app
+
+- Select NXT1
+
+Server Output
+
+- The output from the server can be viewed at localhost/TeamBikeServer
+
+
+Team Bike
