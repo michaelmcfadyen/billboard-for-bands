@@ -8,8 +8,6 @@
     <RootNamespace>nxt</RootNamespace>
     <AssemblyName>nxt</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,10 +32,10 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="NKH.MindSqualls">
-      <HintPath>F:\NKH-2.MindSqualls\bin\Release\NKH.MindSqualls.dll</HintPath>
+      <HintPath>..\..\NKH.MindSqualls.dll</HintPath>
     </Reference>
     <Reference Include="WinUsbWrapper">
-      <HintPath>F:\NKH-2.MindSqualls\bin\Release\WinUsbWrapper.dll</HintPath>
+      <HintPath>..\..\WinUsbWrapper.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

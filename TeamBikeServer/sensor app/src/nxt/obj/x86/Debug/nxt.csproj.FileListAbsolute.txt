@@ -18,3 +18,13 @@ F:\Projects\nxt\nxt\bin\Debug\NKH.MindSqualls.pdb
 F:\Projects\nxt\nxt\bin\Debug\NKH.MindSqualls.xml
 F:\Projects\nxt\nxt\bin\Debug\WinUsbWrapper.pdb
 F:\Projects\nxt\nxt\obj\x86\Debug\nxt.pdb
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\nxt.exe
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\nxt.pdb
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\NKH.MindSqualls.pdb
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\NKH.MindSqualls.xml
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\WinUsbWrapper.pdb
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\obj\x86\Debug\nxt.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\obj\x86\Debug\nxt.exe
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\obj\x86\Debug\nxt.pdb
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\NKH.MindSqualls.dll
+C:\Users\Michael\Documents\GitHub\billboard-for-bands\TeamBikeServer\sensor app\src\nxt\bin\Debug\WinUsbWrapper.dll
